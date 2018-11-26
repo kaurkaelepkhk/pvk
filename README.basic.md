@@ -1,3 +1,4 @@
+[English translation](./README.basic.en.md)
 # Projekti tiitel
 Üks paragraaf projekti kirjeldusest läheb siia
 ### Alustamine
