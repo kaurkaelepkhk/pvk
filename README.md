@@ -1,6 +1,6 @@
 # Programmeerimisvahendite kasutamine
 
-[English translation](pvk/README.en.md)
+[English translation](./README.en.md)
 
 ## Kasutatav tarkvara
 - [PHP Storm](https://www.jetbrains.com/phpstorm/)
