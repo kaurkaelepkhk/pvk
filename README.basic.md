@@ -3,8 +3,7 @@
 Üks paragraaf projekti kirjeldusest läheb siia
 ### Alustamine
 Need juhised annavad sulle koopia projektist ning aitavad alustada lokaalsel repositooriumil arendamise ja testimise eesmärgil.
-
-###Eeltingimused
+### Eeltingimused
 Milliseid rakendusi on vaja installeerida, et projektiga alustada
 ```
 Rakendus 1
