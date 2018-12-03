@@ -1,3 +1,5 @@
+/*Dokumendi stiil*/
+
 html {
     width: 755px;
     font-family: 'Montserrat', sans-serif;
@@ -6,6 +8,8 @@ html {
 h1, h2, h3, h4, h5, h6, p {
     color: #FFF;
 }
+
+/*Pildi ning pildijalus*/
 
 .isikuinfo {
     background-color: #333232;
@@ -23,10 +27,21 @@ h1, h2, h3, h4, h5, h6, p {
 
 .isikuinfo h1 {
     padding: 25px 60px;
-    font-weight: 300;
+    font-weight: 500;
     font-size: 40px;
 }
 
 .ikoonid {
     padding: 25px 50px;
+}
+
+/*Amet*/
+.amet {
+    background-color: #0a0a0a;
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+.amet p {
+    padding-top: 15px;
 }
