@@ -1,0 +1,32 @@
+html {
+    width: 755px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: #FFF;
+}
+
+.isikuinfo {
+    background-color: #333232;
+    box-sizing: border-box;
+    padding: auto;
+    margin: auto;
+}
+
+.isikuinfo a {
+    text-decoration: none;
+    color: #FFF;
+    font-size: 200%;
+    padding: 0 25px;
+}
+
+.isikuinfo h1 {
+    padding: 25px 60px;
+    font-weight: 300;
+    font-size: 40px;
+}
+
+.ikoonid {
+    padding: 25px 50px;
+}
