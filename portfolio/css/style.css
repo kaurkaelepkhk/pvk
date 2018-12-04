@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .resume {
-    background-color: #0be800;
+    background-color: #05ce02;
 }
 
 .work {
@@ -77,4 +77,67 @@ h1, h2, h3, h4, h5, h6, p {
 .home i, .resume i, .work i, .contact i {
     color: #FFF;
     font-size: 40px;
+}
+
+/*Navigatsiooni sisu*/
+
+/***********Home************/
+
+.skills p, .skills h3 {
+    color: #000;
+    font-weight: 300;
+}
+
+.skills p {
+    font-size: 20px;
+}
+
+.skills h3, .homeinfo h3 {
+    font-weight: 500;
+}
+
+.skills-info {
+    color: #000;
+    padding: 0 35px;
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+.skills {
+    padding: 25px 30px;
+    padding-bottom: 65px;
+}
+
+.progress-bar {
+    background-color: #05ce02;
+}
+
+.tiitel {
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+.homeinfo {
+    border: 1px solid #eaeaea;
+}
+
+.pais {
+    padding: 35px 35px;
+    background-color: #008fe8;
+}
+
+/*Jalus*/
+
+.jalus {
+    background-color: #333232;
+    height: 100px;
+    padding: 40px 50px;
+}
+
+.jalus a {
+    color: #FFF;
+    border: 2px solid #FFF;
+    width: 120px;
+    text-decoration: none;
+    padding: 5px 5px;
 }
