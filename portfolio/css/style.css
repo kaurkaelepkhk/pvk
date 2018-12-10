@@ -141,3 +141,36 @@ h1, h2, h3, h4, h5, h6, p {
     text-decoration: none;
     padding: 5px 5px;
 }
+
+/*Resume info*/
+
+.pais2 {
+    padding: 35px 35px;
+    background-color: #05ce02;
+}
+
+.work-text {
+    padding: 0 35px;
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+.workinfo p, .workinfo h4, .workinfo h3 {
+    color: #000;
+}
+
+.worktabel {
+    padding: 25px 5px;
+    margin: 0 15px;
+}
+
+.kast {
+    border: 1px solid #333232;
+    padding: 20px;
+}
+
+.pos, .tel {
+    color: #FFF !important;
+    background-color: #333232;
+    padding: 25px 10px;
+}
