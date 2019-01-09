@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-weight: 400;
+}
+
+.card-header {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 30px;
+}
+
+.btn {
+    font-size: 24px;
+}
