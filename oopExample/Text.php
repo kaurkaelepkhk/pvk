@@ -10,8 +10,21 @@ class Text
 {
     var $str = '';
 
+    /**
+     * Text constructor.
+     * @param string $str
+     */
+    public function __construct($s)
+    {
+        $this->setText($s);
+    }
+
     function setText($s){
         $this->str = $s;
+    }
+
+    function showText(){
+        echo '<b>'.$this->str.'</b><br>';
     }
 
 }
