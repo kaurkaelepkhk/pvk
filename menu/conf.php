@@ -6,6 +6,7 @@
  * Time: 9:42
  */
 
+
 //vajaliku häälestused
 define('BASE_DIR', ''); // define('BASE_DIR', '../');
 //tegelikult peavad olema conf.php failis
@@ -34,13 +35,14 @@ define('DEFAULT_CONTROLLER', 'default'); //vaikimisi defineeritud tegevused
 //selleks on eraldi fail - act.php
 //----------------------------------------
 //impordime vajalikud klassid
+
 require_once(MODEL_DIR.'Template.php');
 require_once(MODEL_DIR.'Http.php');
 require_once(MODEL_DIR.'Mysql.php');
 require_once(MODEL_DIR.'Linkobject.php');
 require_once(MODEL_DIR.'Session.php');
 require_once(LIB_DIR.'utils.php');
-require_once(BASE_DIR.'dbconf.php');
+require_once(BASE_DIR.'db_conf.php');
 //kui kasutaja tuleb esmakordselt lehele, milline keel näidatakse vaikimisi
 define('DEFAULT_LANG', 'et');
 //defineerime keelekoodid
